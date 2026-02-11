@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numaan-K14&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numaan-K14&show_icons=true&hide_rank=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numaan-K14&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numaan-K14&layout=compact&langs_count=6)
 
 
 Feel free to connect and collaborate on exciting projects!
