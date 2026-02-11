@@ -1,68 +1,67 @@
-👋 Hi, I’m Numaan-Kazi
+👋 Hi, I’m @Numaan-K14
 
-🖥 Software Engineering Intern (Frontend) at Apsis Solutions Ltd
+🖥 Software Engineering Intern (Frontend) at **Apsis Solutions Ltd**
 
-👨‍💻 Computer Science Graduate | Frontend Developer | React.js Enthusiast
+👨‍💻 **Computer Science Graduate | Software Developer | Next js, React.js Enthusiast**
 
-🔧 Skills:
-React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, shadcn/ui, Bootstrap, REST APIs, Git, GitHub, SQL, LocalStorage, Session Storage
+🔧 **Skills**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, shadcn/ui, Bootstrap, REST APIs, Git, GitHub, SQL, LocalStorage, Session Storage
 
-🌟 Passionate about building clean, responsive, and user-friendly interfaces.
-Currently working as a Software Developer Intern at Apsis Solutions Ltd, where I contribute to real-world production features, develop responsive UI components, and integrate REST APIs for client-facing applications.
+🌟 Passionate about frontend development and building clean, responsive, and user-friendly interfaces. Currently interning at a software solutions company, contributing to real-world production features, developing responsive UI components, and integrating REST APIs for client-facing applications. I enjoy transforming designs into scalable React components and improving user experience through performance-focused frontend development.
 
-I enjoy transforming designs into scalable React components and improving user experience through performance-focused frontend development.
+🎓 **Bachelor of Computer Science, Bytco College, Nashik**
 
-🎓 Bachelor of Computer Science, Bytco College, Nashik
-Always eager to learn, collaborate, and grow as a frontend engineer.
+💻 Coding is not just about writing code — it’s about creating
 
-💻 “Coding is not just about writing code — it’s about creating experiences.”
+📫 Email: numaankazi145@gmail.com
 
-📫 Connect with me:
+---
 
-LinkedIn: Numaan Kazi
+## 🚀 Current Tech Stack
 
-GitHub: @Numaan-Kazi
+• **Languages:** JavaScript, TypeScript, SQL  
 
-🚀 Current Tech Stack
+• **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, shadcn/ui, Bootstrap  
 
-Languages:
-JavaScript, TypeScript, SQL
+• **Tools & Platforms:** Git, GitHub, REST APIs, LocalStorage, Session Storage  
 
-Frameworks & Libraries:
-React.js, Next.js, Tailwind CSS, shadcn/ui, Bootstrap
+---
 
-Tools & Platforms:
-Git, GitHub, REST APIs, LocalStorage, Session Storage
 
-💼 Projects
-🛒 QuickBuy – E-Commerce Web Application
 
-Tech Stack: React.js, JavaScript, Tailwind CSS, shadcn/ui, REST APIs, GitHub
+## 💼 Projects
 
-Description:
-A modern e-commerce web application with a clean and intuitive user interface.
+### 1. QuickBuy – E-Commerce Web Application
 
-Highlights:
+• **Tech Stack:** React.js, JavaScript, Tailwind CSS, shadcn/ui, REST APIs, GitHub  
 
-Modular and reusable React components
+• **Description:** A modern e-commerce web application with a clean and intuitive user interface.  
 
-Secure authentication with login persistence using localStorage
+• **Highlights:**  
+  • Modular and reusable React components  
+  • Secure authentication with login persistence using localStorage  
+  • Dynamic product listing using REST APIs with loading and error handling  
+  • Scalable folder structure and clean code practices  
 
-Dynamic product listing using REST APIs with loading & error handling
+---
 
-Scalable folder structure and clean code practices
+### 2. CBI – Competency-Based Interview Portal
 
-🎯 CBI – Competency-Based Interview Portal
+• **Tech Stack:** React.js, JavaScript, Tailwind CSS, shadcn/ui, REST APIs, GitHub  
 
-Tech Stack: React.js, JavaScript, Tailwind CSS, shadcn/ui, REST APIs, GitHub
+• **Description:** A web-based platform to streamline competency-based interviews with structured workflows.  
 
-Description:
-A web-based platform to streamline competency-based interviews with structured workflows.
+• **Highlights:**  
+  • Role-based authentication for candidates, interviewers, and admin users  
+  • REST API integration for competency data and evaluation reports  
+  • Intuitive UI for interview scheduling and question navigation  
 
-Highlights:
+---
 
-Role-based authentication for candidates, interviewers, and admins
+## 📊 GitHub Stats
 
-REST API integration for competency data and evaluation reports
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numaan-K14&show_icons=true&theme=dark&cache_seconds=1800)
 
-Intuitive UI for interview scheduling and question navigation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numaan-K14&layout=compact&theme=dark&cache_seconds=1800)
+
+
+Feel free to connect and collaborate on exciting projects!
