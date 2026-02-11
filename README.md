@@ -1,18 +1,18 @@
-👋 Hi, I’m Numaan-Kazi
+👋&nbsp;Hi, I’m Numaan-Kazi
 
-🖥   Software Engineering Intern at **Apsis Solutions Ltd**
+ 🖥&nbsp; Software Engineering Intern at **Apsis Solutions Ltd**
 
-👨‍💻  **Computer Science Graduate | Software Developer | Next js, React.js Enthusiast**
+👨‍💻&nbsp;**Computer Science Graduate | Software Engineer | Next js, React.js Enthusiast**
 
-🔧  **Skills**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, shadcn/ui, Bootstrap, REST APIs, Git, GitHub, SQL, LocalStorage, Session Storage
+🔧&nbsp;**Skills**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, shadcn/ui, Bootstrap, REST APIs, Git, GitHub, SQL, LocalStorage, Session Storage
 
-🌟  Passionate about frontend development and building clean, responsive, and user-friendly interfaces. Currently interning at a software solutions company, contributing      to real-world production features, developing responsive UI components, and integrating REST APIs for client-facing applications. I enjoy transforming designs into        scalable React components and improving user experience through performance-focused frontend development.
+🌟&nbsp;Passionate about frontend development and building clean, responsive, and user-friendly interfaces. Currently interning at a software solutions company, &nbsp;&nbsp;contributing to real-world production features, developing responsive UI components, and integrating REST APIs for client-facing applications. I enjoy &nbsp;&nbsp;transforming designs into scalable React components and improving user experience through performance-focused frontend development.
 
-🎓  **Bachelor of Computer Science, Bytco College, Nashik**
+🎓&nbsp;**Bachelor of Computer Science, Bytco College, Nashik**
 
-💻  Coding is not just about writing code — it’s about creating
+💻&nbsp;Coding is not just about writing code — it’s about creating
 
-📫  Email: numaankazi145@gmail.com
+📫&nbsp;Email: numaankazi145@gmail.com
 
 ---
 
