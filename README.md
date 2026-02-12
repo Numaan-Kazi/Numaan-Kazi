@@ -10,7 +10,7 @@
 
 🎓&nbsp;**Bachelor of Computer Science, Bytco College, Nashik**
 
-💻&nbsp;Coding is not just about writing code — it’s about creating
+💻&nbsp;Coding is not just code — it’s creation.
 
 📫&nbsp;Email: numaankazi145@gmail.com
 
