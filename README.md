@@ -4,7 +4,7 @@
 
 👨‍💻&nbsp;**Computer Science Graduate | Software Engineer | Next js, React.js Enthusiast**
 
-🔧&nbsp;**Skills**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, shadcn/ui, TanStack,Bootstrap, REST APIs, Git, GitHub, SQL, LocalStorage, Session Storage
+🔧&nbsp;**Skills**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, shadcn/ui, TanStack,Bootstrap, REST APIs, Git, GitHub, SQL, LocalStorage, Session Storage,Cookies
 
 🌟&nbsp;Passionate about frontend development and building clean, responsive, and user-friendly interfaces. Currently interning at a software solutions company, &nbsp;&nbsp;contributing to real-world production features, developing responsive UI components, and integrating REST APIs for client-facing applications. I enjoy &nbsp;&nbsp;transforming designs into scalable React components and improving user experience through performance-focused frontend development.
 
