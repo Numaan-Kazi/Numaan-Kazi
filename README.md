@@ -77,14 +77,3 @@
   • Designed interactive analytics dashboards featuring dynamic KPI cards, pie charts, and performance insights to visualize employee feedback and assessment results.
   
   • Created a fully responsive and production-ready user experience using modern React ecosystem tools, focusing on performance, maintainability, accessibility, and enterprise-grade workflows.
-  
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numaan-K14&show_icons=true&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numaan-K14&layout=compact&langs_count=6)
-
-
-Feel free to connect and collaborate on exciting projects!
